@@ -26,3 +26,4 @@ graphics.off()
 cat("\014")   # ctrl + L
 
 
+#holas a vert si esto aprece en el gut hub
