@@ -9,7 +9,7 @@ library(datasets) #importamos el dataset
 df <- iris 
 head(df)
 df
-
+holaquetal <- 98
 #Histograma
 hist(df$Petal.Width , main = "European University - Histogram of Petal Width" , xlab = "Petal Width (in cm)")
 
@@ -21,6 +21,6 @@ detach("packeage:datasets" , unload = TRUE)
 
 #Clear plots
 graphics.off()
-
+jkdhgfrk
 #Clear console
 cat("\014")   # ctrl + L
